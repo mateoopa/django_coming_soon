@@ -1,0 +1,7 @@
+django
+python-dotenv
+django-ckeditor
+whitenoise
+
+# postgres
+psycopg2
